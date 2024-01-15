@@ -1,10 +1,10 @@
 🌱 I’m currently learning: Web Development, Game Art, Cloud, UI/UX.
 
+👯 I’m looking to collaborate on: Guided Projects.
+
 👨‍💻 My projects are available at: https://github.com/Zoha-Waheed
 
 📝 I regularly write articles on Medium: https://xuhaawaheed.medium.com/
-
-👯 I’m looking to collaborate on: Guided Projects.
 
 💬 Ask me about: Programming Fundamentals and Object-Oriented Programming.
 
